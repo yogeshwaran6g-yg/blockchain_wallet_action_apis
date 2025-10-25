@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+npm-debug.log
+.env
+
+# Build artifacts
+build/
+dist/
+
+# OS and IDE files
+.DS_Store
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+tmp/
