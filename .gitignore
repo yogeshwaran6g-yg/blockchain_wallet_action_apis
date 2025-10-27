@@ -2,6 +2,7 @@
 node_modules/
 npm-debug.log
 .env
+pnpm-lock.yaml
 
 # Build artifacts
 build/
