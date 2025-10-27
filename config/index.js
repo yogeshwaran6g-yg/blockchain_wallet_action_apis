@@ -16,9 +16,3 @@ module.exports={
     }
 }
 
-
-
-// get /tron/walletCreate
-// get /evm/walletCreate
-// tron data format={privateKey: account.privateKey,accountAddressBase58: account.address.base58,addressHex: account.address.hex}
-// evm data format ={ address: wallet.address, privateKey: wallet.privateKey };
