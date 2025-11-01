@@ -1,0 +1,44 @@
+const POLYGON_TOKEN_CONTRACTS = {
+  // Stablecoins
+  USDT: "0xCEfe885338e81545152eB809DD53B0C18438df76",//200
+  USDC: "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+  DAI: "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",  
+  // Wrapped MATIC
+  WMATIC: "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+  // Popular DeFi Tokens
+  AAVE: "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+  QUICK: "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
+  SUSHI: "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
+  UNI: "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
+  // Gaming/Metaverse
+  SAND: "0xBBba073C31bF03b8ACf7c28EF0738DeCF3695683",
+  MANA: "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
+  // Oracle Tokens
+  LINK: "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+  // Meme Tokens
+  MATIC: "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0" // This is the ERC20 version
+};
+
+
+  bep20 = inrt(balance, transfer), usdt(same), BNP(same)
+  polygon = usdt(balance, transfer) , pol(balance ,transfer) transactions for all
+
+
+const BEP20_TOKEN_CONTRACT ={
+
+  usdt: "0x524bC91Dc82d6b90EF29F76A3ECAaBAffFD490Bc",
+  inrt: "0x7987f7074a11E6A9a5eA7f7b0B041bE610810F33",
+
+  <!-- 0x7987f7074a11E6A9a5eA7f7b0B041bE610810F33 -->
+
+
+
+}
+
+
+
+
+
+
+
+
